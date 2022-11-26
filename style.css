@@ -1,0 +1,73 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+html {
+background:black;
+}
+h1{
+  color: rgb(217, 217, 217);
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  font-style:"Segoe", verdana, sans-serif ;
+}
+header{
+   background-image: url("img/Records.jpg"); 
+   background-size: cover;
+   height: 100px;
+   text-align: justify;
+   text-decoration-thickness:80px;
+}
+
+.used{
+    color: aliceblue;
+    font-style:"Segoe", verdana, sans-serif ;
+    font-size: 16px;
+}
+.sale{
+    font-weight: bold;
+}
+h2{background-color:#ef8354; 
+    text-align: center; 
+    font-size: 25px; 
+    font-weight: bold;
+    color: aliceblue;
+}
+p {text-align: left; 
+    font-size: 14px;
+    color: aliceblue;
+}
+h3{
+    font-size:16px;
+    color: aliceblue;
+}
+h4 {background-color: none; 
+    text-align: left; 
+    font-weight: bold; 
+    font-size: 20px;
+}
+#selling{
+    background-color: #0e7c7b;
+}
+#live{
+    background-color:purple ;
+}
+#facebook{
+ color:#ef8354;
+}
+#facebook :hover{
+    color: #9c528b;
+}
+#copyright{
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+    
+
+
+
+
+
+
+
+
